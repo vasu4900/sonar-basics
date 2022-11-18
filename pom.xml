@@ -16,7 +16,7 @@
 	
   </properties>
   <sonar.host.url>http://3.23.87.32:9000/</sonar.host.url>
-</properties>	
+
   <dependency>
     <dependency>
       <groupId>com.google.guava</groupId>
