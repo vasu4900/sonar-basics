@@ -15,8 +15,9 @@
     <maven.compiler.release>11</maven.compiler.release>
 	
   </properties>
-<sonar.host.url>http://3.23.87.32:9000/</sonar.host.url>
-  
+  <sonar.host.url>http://3.23.87.32:9000/</sonar.host.url>
+</properties>	
+  <dependency>
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
