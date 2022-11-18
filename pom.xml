@@ -17,7 +17,7 @@
 	
   </properties>
   
-
+ </properties>
   <dependency>
     <dependency>
       <groupId>com.google.guava</groupId>
